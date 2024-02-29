@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Ejercicio11 {
+public class Ejercicio11PDF2 {
     public static void main(String[] args){
 
         Scanner teclado = new Scanner(System.in);
